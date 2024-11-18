@@ -1,4 +1,4 @@
-#Read Me!
+
 
 <h2 align="left">Hi there👋! My name is Zwe Thuta. Welcome from my coding world.</h2>
 
@@ -44,11 +44,17 @@
 ###
 <h3 align="left">💬 Social Media</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  <a href="https://discord.gg/discordapp.com/users/531024210726879253"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  /></a>
+  <a href="https://www.facebook.com/share/1PpaRaRE6V/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  /></a>
 </div>
 
 
+
+<h3 align="left">📊 GitHub Status</h3>
+<div display="flex">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZweThuta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" </img>
+  <img align="right" src ="https://github-readme-stats.vercel.app/api?username=ZweThuta&theme=dark&hide_border=false&include_all_commits=false&count_private=false" </img>
+</div>
 
 ###
