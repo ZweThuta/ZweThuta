@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨ Stepping into IT field since 2020.<br>📚 I'm currently learning Php and Gd script.<br>📫 How to reach me - zwethuta1998@gmail.com.</p>
+<p align="left">✨ Stepping into IT field since 2020.<br>.<br>📫 How to reach me - zwethuta1998@gmail.com.</p>
 
 
 <img align="left" height="200" src="https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif"  />
